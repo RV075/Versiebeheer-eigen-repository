@@ -1,2 +1,2 @@
-while true:
-  print "appel"
+while True:
+  print("appel")
