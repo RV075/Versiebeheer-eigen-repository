@@ -1,5 +1,11 @@
 # Versiebeheer-eigen-repository
 
+* Op de main branch komen alleen onderdelen of features die al af zijn.
+* Op de Dev branch komen onderdelen of features waar aan gewerkt wordt.
+* Op de Feature branch komen onderdelen of features waar nog gewerkt aan moet worden.
+
+---
+
 Bevat het volgende:
 
 * 📖 README in main, Dev & Feature branches
