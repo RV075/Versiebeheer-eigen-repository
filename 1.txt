@@ -1,1 +1,4 @@
 Dit bestand (1.txt) komt terecht in de main branch.
+
+De functie van dit bestand is om updates toe te voegen.
+Er worden een reeks aanpassingen gemaakt aan dit bestand en door middel van commits wordt duidelijk beschreven wat de aanpassingen zijn.
