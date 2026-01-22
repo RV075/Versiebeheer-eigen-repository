@@ -1,2 +1,3 @@
 # Versiebeheer-eigen-repository
-Bevat onderdelen voor de criteria voor de eigen repository van versiebeheer
+
+Dit is de Feature branch. Hier worden features toegevoegd waar nog gewerkt aan moet worden.
