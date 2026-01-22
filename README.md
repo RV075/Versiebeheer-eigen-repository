@@ -1,2 +1,3 @@
 # Versiebeheer-eigen-repository
-Bevat onderdelen voor de criteria voor de eigen repository van versiebeheer
+
+Dit is de Dev branch. Hier wordt gewerkt aan features.
