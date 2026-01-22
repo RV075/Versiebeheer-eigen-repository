@@ -1,1 +1,1 @@
-Dit bestand (1.txt) komt terecht in de main branch.
+Dit bestandje (1.txt) komt terecht in de main branch.
