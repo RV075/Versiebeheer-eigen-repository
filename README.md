@@ -2,4 +2,8 @@
 
 Bevat het volgende:
 
-* Branches: main, Dev, Feature
+* Deze README
+* Een gitignore
+* Commits met duidelijke beschrijvingen van aanpassingen
+* Branches: main, Dev, Feature (Basis 3 branchingstructuur)
+* Duidelijke benamingen
